@@ -8,10 +8,11 @@
 
 - 📫 How to reach me [rosvir@icloud.com](mailto:rosvir@icloud.com)
 
-- 🔭 I’m currently working on [SaaS Calendario Profesionales](https://calendarioprofesionales.com) & [React TS Instagram](https://github.com/dualh/react-instagram)
+- 🔭 I’m currently working on [React TS Instagram](https://github.com/dualh/react-instagram)
 
 
 <!--
+[SaaS Calendario Profesionales](https://calendarioprofesionales.com) &
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
