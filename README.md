@@ -1,7 +1,5 @@
 ### Welcome to my profile 👋
 
-![Ralph says Welcome](https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
-
 - 👨‍💻 All of my projects are available at [https://vrosano.com/](https://vrosano.com/)
 
 - 💬 Ask me about **Ionic, Capacitor, Javascript, React, Angular, Typescript, NodeJS & web technologies**
