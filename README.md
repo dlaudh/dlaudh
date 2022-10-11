@@ -35,6 +35,8 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 
+## My progress
+
 <table cellpadding="0">
   <tr style="padding: 0px"> 
     <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dualh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/></td>
