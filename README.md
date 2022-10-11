@@ -1,10 +1,9 @@
-# Welcome to my profile 👋
+# Welcome to my profile 👋 ![Views](https://komarev.com/ghpvc/?username=dualh&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3>
-  <a target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=dualh&label=Profile%20views&color=0e75b6&style=flat" alt="dualh" />
-  </a>
-</h3>
+<a target="_blank" href="https://www.linkedin.com/in/vrosano97/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dualh" />
+    
+</a>
 
 ## Main programming languages
 
