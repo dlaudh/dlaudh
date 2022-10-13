@@ -1,10 +1,10 @@
 # Welcome to my profile 👋
 <a target="_blank" rel="noopener noreferrer">
-<img src="https://komarev.com/ghpvc/?username=dualh&label=Profile%20views&color=0e75b6&style=flat" alt="dualh" />
+<img src="https://komarev.com/ghpvc/?username=dlaudh&label=Profile%20views&color=0e75b6&style=flat" alt="dlaudh" />
 </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/vrosano97/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dualh" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dlaudh" />
     
 </a>
 
@@ -41,9 +41,9 @@
 
 <table cellpadding="0">
   <tr style="padding: 0px"> 
-    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dualh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/></td>
-    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dualh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&count_private=true"/></td>
+    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dlaudh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/></td>
+    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlaudh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&count_private=true"/></td>
   </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dualh&theme=black-ice"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dlaudh&theme=black-ice"/>
