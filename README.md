@@ -38,7 +38,7 @@
 
 <table cellpadding="0">
   <tr style="padding: 0px"> 
-    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=dlaudh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/></td>
+    <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-stats-nine-rho-80.vercel.app/api?username=dlaudh&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/></td>
     <td valign="top" style="padding: 0px"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlaudh&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&count_private=true"/></td>
   </tr>
 </table>
