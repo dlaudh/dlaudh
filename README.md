@@ -19,7 +19,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<img src="https://github-readme-stats-nine-rho-80.vercel.app/api?username=dlaudh&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-nine-rho-80.vercel.app/top-langs/?username=dlaudh&layout=compact&theme=jolly&hide_border=true" />
 
 ## I also use:
 
