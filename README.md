@@ -43,7 +43,5 @@
   </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dlaudh&theme=black-ice"/>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
